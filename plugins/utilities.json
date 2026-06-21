@@ -2589,10 +2589,13 @@
       "external_url": "",
       "authors": [
         {
-          "name": "ItzHacker101"
+          "name": "ItzHacker101",
+          "email": "",
+          "discord": ""
         }
       ],
       "versions": {
+        "1.0.1": null,
         "1.0.0": {
           "api_version": 9,
           "commit_sha": "5cf2ebd",
