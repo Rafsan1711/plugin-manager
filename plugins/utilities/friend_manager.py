@@ -34,7 +34,7 @@ plugman = dict(
         "Settings -> Friends."
     ),
     external_url="",
-    authors=[{"name": "ItzHacker101"}],
+    authors=[{"name": "ItzHacker101", "email": "", "discord": ""}],
     version="1.0.0",
 )
 
